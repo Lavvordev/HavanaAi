@@ -2,9 +2,9 @@
   
   <img src="https://i.postimg.cc/FHT2zVKY/xbotlogo.png" alt="HavanaAi Logo" width="200"/>
   
-  # 🤖 HavanaAi WhatsApp Bot
+  # HavanaAi WhatsApp Bot
   
-  ### *Your Ultimate WhatsApp Assistant | Special for Music*
+  ### *Your Ai WhatsApp Assistant | Special for Music*
   
   [![Version](https://img.shields.io/badge/Version-1.00.1-blue.svg)](https://github.com/LavvorStudio/HavanaAi)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
