@@ -31,7 +31,7 @@ Advanced WhatsApp bot with message protection, status automation, and smart trig
 ## ⚡ **Quick Install**
 
 ```bash
-git clone https://github.com/LavvorStudio/HavanaAi.git
+git clone https://github.com/Lavvordev/HavanaAi.git
 cd HavanaAi
 npm install
 npm start
@@ -44,14 +44,8 @@ npm start
 | Command | Description |
 |---------|-------------|
 | `.menu` | Show all categories |
-| `.ytmp3 <song>` | Download YouTube audio |
-| `.ytmp4 <url>` | Download YouTube video |
-| `.havana motivation` | Get motivation |
-| `.antideletecmd on/off` | Anti-Delete toggle |
-| `.antieditcmd on/off` | Anti-Edit toggle |
-| `.autoread on/off` | Auto-read messages |
-| `.wavv set emoji 😂` | Set viewonce trigger |
-| `.vv` | Save viewonce media |
+
+*Others just type .menu and see*
 
 ---
 
@@ -61,9 +55,8 @@ Create `.env` file:
 
 ```env
 BOT_NAME=HavanaAi
-OWNER_NUMBER=923001234567
+OWNER_NUMBER=Your number
 PREFIX=.
-CHANNEL_LINK=https://whatsapp.com/channel/...
 ```
 
 ---
