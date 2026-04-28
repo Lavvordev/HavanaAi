@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   
   <img src="https://i.postimg.cc/FHT2zVKY/xbotlogo.png" alt="HavanaAi Logo" width="200"/>
   
