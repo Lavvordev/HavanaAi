@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://pimagehostxlv.vercel.app/i/69efa3ed8d6e61092e96108a" alt="HavanaAi Logo" width="200"/>
+  <img src="https://postimg.cc/VJb7HMnw/4d440a75" alt="HavanaAi Logo" width="200"/>
   
   # 🤖 HavanaAi WhatsApp Bot
   
